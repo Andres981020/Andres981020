@@ -1,5 +1,11 @@
 ## Hi there, I'm Andres Mosquera 👋
 
+## About me
+- ⚡ Web developer
+- ✨ I like sports
+- ✨ I like MTB
+- 🌱 Constantly learning about software development
+
 <!--
 **Andres981020/Andres981020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
