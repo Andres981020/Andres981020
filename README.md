@@ -6,6 +6,10 @@
 - ✨ I like MTB
 - 🌱 Constantly learning about software development
 
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="[https://readme-jokes.vercel.app/api](https://readme-jokes.vercel.app/api)" alt="README Jokes"></a>
+
+
 <!--
 **Andres981020/Andres981020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
