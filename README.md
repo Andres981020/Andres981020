@@ -7,7 +7,7 @@
 - 🌱 Constantly learning about software development
 - 🔭 I’m currently working on Quality Colombia S.A.
 - 🌱 I’m currently learning about AWS.
-- ⚡ Fun fact: My Favorite NBA team is San Antonio Spurs because i played NBA 99 in a N64 emulator, randomly i got SA Spurs, TD21 as the star of the team in the videogame and a few days after i saw TD21 playing an actual match, that was pretty crazy to me.
+- ⚡ Fun fact: My Favorite NBA team is San Antonio Spurs because i played NBA 99 in a N64 emulator, randomly i got SA Spurs, TD21 as the star of the team in the videogame and a few days after that i saw TD21 playing an actual match, that was pretty crazy to me.
 
   <i>Sharing with you a random dev joke!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
