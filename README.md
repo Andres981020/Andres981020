@@ -8,8 +8,6 @@
 
   <i>Sharing with you a random dev joke!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
-
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -17,7 +15,16 @@
 
 <div>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+  </br>
+  </br>
+  <p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,azure,bitbucket,discord,docker,postgres,express,nestjs,github,html,java,spring,junit,js,mongodb,mysql,nodejs,postman,angular,ts,flutter,vscode,eclipse&perline=14" />
+  </a>
+</p>
 </div>
+
+</br>
 
 <div align="center">
 
